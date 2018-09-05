@@ -1,3 +1,3 @@
 # silver-bassoon
 S2B Teste
-Projeot inicial em Java
+Projeto inicial em Java
